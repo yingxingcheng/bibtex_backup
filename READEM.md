@@ -1,7 +1,6 @@
+Use zotero reference manager instead mendely, and the cite keys should be updated.
 
-## TODO
 
-    - Auther name order
-    - Pages or Page
-    - Url
-    - No `volume` in online db
+## Files
+
+- `key_map.json`: {'mendely_cite_key':'zotero_cite_key'}
