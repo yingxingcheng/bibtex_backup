@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-omit=abstract,mendeley-groups,file,annote,keywords,issn,publisher
+omit=abstract,mendeley-groups,file,annote,keywords
 sortrules=type,year,key
 duplicates=key,doi
 
